@@ -1,4 +1,12 @@
-### Hi there 👋
+### About me
+
+- C/C++
+- Python
+- Assembler
+- Reverse engineering
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />
+
 
 <!--
 **0x000N3X4N/0x000N3X4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
