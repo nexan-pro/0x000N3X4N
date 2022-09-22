@@ -12,7 +12,7 @@
 &nbsp;&nbsp;
 [![website](./img/telegram-app.svg)](https://t.me/nexan_pro)
 &nbsp;&nbsp;
-<img src="./img/protonmail.svg" width=2.7% height=2.7%>
+<img src="./img/protonmail.svg" width=2.6% height=2.6%>
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/0x000N3X4N#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/0x000N3X4N#gh-dark-mode-only)
