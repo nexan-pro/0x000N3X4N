@@ -22,7 +22,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/0x0000N3X4N/anonfile"><img width="500" src="https://github-readme-stats-nu-ebon.vercel.app/api/pin/?username=0x000N3X4N&repo=anonfile&theme=nightowl&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="anonfile"></a>
+  <a href="https://github.com/0x000N3X4N/anonfile"><img width="500" src="https://github-readme-stats-nu-ebon.vercel.app/api/pin/?username=0x000N3X4N&repo=anonfile&theme=nightowl&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="anonfile"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/0x000N3X4N/SourceCodeObfuscator"><img width="500" src="https://github-readme-stats-nu-ebon.vercel.app/api/pin/?username=0x000N3X4N&repo=SourceCodeObfuscator&theme=nightowl&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SourceCodeObfuscator"></a>
   </p>
