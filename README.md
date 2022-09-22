@@ -26,8 +26,10 @@
   </p>
 
 ## 🔥 Streak stats
-
-[![GitHub Streak](https://github-readme-streak-stats1337.herokuapp.com/?user=0x000N3X4N&theme=buefy-dark)](https://git.io/streak-stats)
+<a href="https://nexan.pro">
+  <img src="https://github-readme-streak-stats1337.herokuapp.com/?user=0x000N3X4N&theme=buefy-dark" />
+</a>
+<br/>
 
 ## 📊 Github stats
 [![Github stats](https://github-readme-stats-nu-ebon.vercel.app/api?username=0x000N3X4N&show_icons=true&theme=nightowl)](https://github.com/0x000N3X4N/github-readme-stats)
