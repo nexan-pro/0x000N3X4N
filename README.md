@@ -5,7 +5,20 @@
 - Assembler
 - Reverse engineering
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://nexan.pro#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://nexan.pro#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/0x000N3X4N#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/0x000N3X4N#gh-dark-mode-only)
+
+## 🔥 Streak stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0x000N3X4N&theme=buefy-dark)](https://git.io/streak-stats)
+
+## 📊 Github stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=0x000N3X4N&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
