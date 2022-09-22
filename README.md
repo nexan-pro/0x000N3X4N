@@ -9,7 +9,7 @@
 
 [![website](./img/globe-light.svg)](https://nexan.pro#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://nexan.pro#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp; 
 [![website](./img/telegram-app.svg)](https://t.me/nexan_pro)
 &nbsp;&nbsp;
 <img src="./img/protonmail.svg" width=2.6% height=2.6%>
