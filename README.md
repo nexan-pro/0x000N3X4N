@@ -27,7 +27,7 @@
 
 ## 🔥 Streak stats
 <a href="https://nexan.pro">
-  <img src="https://github-readme-streak-stats1337.herokuapp.com/?user=0x000N3X4N&theme=buefy-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x000N3X4N&theme=buefy-dark" />
 </a>
 <br/>
 
