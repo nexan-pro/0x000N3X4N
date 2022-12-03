@@ -32,7 +32,7 @@
 <br/>
 
 ## 📊 Github stats
-[![Github stats](https://github-readme-stats-nu-ebon.vercel.app/api?username=0x000N3X4N&show_icons=true&theme=nightowl)](https://github.com/0x000N3X4N/github-readme-stats2)
+
 
 
 <!--
